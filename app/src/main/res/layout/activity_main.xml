@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/stopBtn"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:backgroundTint="#009688"
+        android:fontFamily="@font/convergence"
+        android:text="@string/stop"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.666" />
+
+    <Button
+        android:id="@+id/startBtn"
+        android:layout_width="100dp"
+        android:layout_height="60dp"
+        android:backgroundTint="#009688"
+        android:fontFamily="@font/convergence"
+        android:text="@string/start"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.16"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.666" />
+
+    <TextView
+        android:id="@+id/viewNumber"
+        android:layout_width="160dp"
+        android:layout_height="70dp"
+        android:background="@color/purple_200"
+        android:backgroundTint="@color/purple_700"
+        android:fontFamily="@font/convergence"
+        android:gravity="center"
+        android:hint="@string/counter"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="34sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.331"
+        tools:ignore="TextContrastCheck" />
+
+    <Button
+        android:id="@+id/wreset"
+        android:layout_width="113dp"
+        android:layout_height="60dp"
+        android:backgroundTint="#009688"
+        android:fontFamily="@font/convergence"
+        android:text="@string/reset"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/stopBtn"
+        app:layout_constraintVertical_bias="0.289" />
+</androidx.constraintlayout.widget.ConstraintLayout>
