@@ -22,8 +22,8 @@
 
 ## Installation
 
-[<div align="center"><img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
-    alt="Get it on GitHub"height="80"></div>](https://github.com/chottuthejimmy/Stopwatch/releases/latest)
+<div align="center">[<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
+    alt="Get it on GitHub"height="80">](https://github.com/chottuthejimmy/Stopwatch/releases/latest)</div>
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
