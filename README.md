@@ -7,7 +7,9 @@
 ---
 
 <p align="center">
-  <img src="app\screenshots\1.png" width="30%" height="30%" style="display: inline-block; vertical-align: middle;"/>
+  <img src="app\screenshots\1.png" width="30%" 
+    height="30%" 
+        style="display: inline-block; vertical-align: middle";/>
   <img src="app\screenshots\2.png" width="30%" height="30%" style="display: inline-block; vertical-align: middle;"/>
 </p>
 
@@ -24,7 +26,9 @@
 
 ## Installation
 
-<img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub"height="80">(https://github.com/chottuthejimmy/Stopwatch/releases/latest)
+[<img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" 
+    alt="Get it on GitHub" 
+        height="80">](https://github.com/chottuthejimmy/Stopwatch/releases/latest)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
