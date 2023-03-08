@@ -19,7 +19,7 @@
 - **Start, stop, and reset functionality**: The application allows users to start, stop, and reset the stopwatch timer with ease
 - **Accurate time tracking**: The stopwatch uses the device's internal clock to provide accurate time tracking
 - **Easy to read display**: The stopwatch displays the elapsed time in a clear and easy-to-read format
--**Lightweight and minimalistic**: The application has a minimalistic design and consumes very little resources on the device
+- **Lightweight and minimalistic**: The application has a minimalistic design and consumes very little resources on the device
 - **Material design**: The application follows the Material design guidelines and provides an intuitive and visually pleasing user interface
 - **Compatibility**: The application is compatible with most of the android versions and different screen sizes
 - **Easy to customize**: The application is easy to customize and can be adapted to different needs and use-cases
